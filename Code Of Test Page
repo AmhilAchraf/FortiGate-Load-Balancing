@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Serveur_Web1</title>
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color : #3366cc
+        }
+        .Ach{
+          color : blue;
+        }
+
+        header {
+            text-align: center;
+            background-color: #f2f2f2;
+            padding: 10px;
+        }
+
+        section {
+            margin-top: 20px;
+        }
+
+        footer {
+            margin-top: 20px;
+            text-align: center;
+            background-color: #f2f2f2;
+            padding: 10px;
+        }
+</style>
+</head>
+<body>
+    <header>
+      <h1><center>Bienvenue Sur Ma Page De Test (Serveur_web1)</center></h1>
+    </header>
+
+    <section>
+        <p><center>Le load balancing, ou répartition de charge, est une technologie conçue pour distribuer la charge de travail entre différents serveurs ou applications.
+           Le but : optimiser la performance globale de l’infrastructure,
+           son rendement et sa capacité.</center></p>
+    </section>
+
+    <footer>
+        <h3>information sur le serveur : </h3>
+        <p> ip address : 10.0.60.10 </p>
+        <p> Nom Du Serveur : Serveur_Web1 </p>
+        <p> System d'exploitation : Ubuntu 22.04 </p>
+    </footer>
+        <h3>information sur le serveur : </h3>
+        <p> ip address : 10.0.60.10 </p>
+        <p> Nom Du Serveur : Serveur_Web1 </p>
+        <p> System d'exploitation : Ubuntu 22.04 </p>
+    </footer>
+
+<p class="Ach">Linkedin : http://www.linkedin.com/in/achraf-amhil</p>
+<p class="Ach">GitHub :http://www.github.com/AmhilAchraf</p>
+
+</body>
+</html>
